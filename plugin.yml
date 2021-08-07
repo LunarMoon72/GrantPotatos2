@@ -1,7 +1,7 @@
-name: GrantPotatoes2
+name: GrantPotatos2
 version: 0.0.1
 author: LunarMoon72
-main: LunarMoon72\GrantPotatoes2\Main
+main: LunarMoon72\GrantPotatos2\Main
 api: 3.21.1
 mcpe-protocol: 448
 description: A plugin for giving yourself baked potatoes with1 simple command.
